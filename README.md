@@ -2,9 +2,7 @@
 <h3 align="center">Back-End Developer • Full-Stack Desktop Developer • CMC Nouasseur Student</h3>
 
 <p align="center">
-  💻 Passionate about building reliable back-end systems  
-  🚀 Interested in full-stack & desktop applications  
-  📚 Always learning and improving
+I enjoy working on backend and desktop projects, paying attention to code quality, performance, and simplicity
 </p>
 
 ---
@@ -46,8 +44,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: *add your email here*
-- 🌐 GitHub: *you are here 😄*
+- 📧 Email: oussamaezahidi@gmail.com
+- 🌐 GitHub: Oussama ezahidi
 
 ---
 
