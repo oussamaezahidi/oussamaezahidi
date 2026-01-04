@@ -2,16 +2,23 @@
 <h3 align="center">Back-End Developer • Full-Stack Desktop Developer • CMC Nouasseur Student</h3>
 
 <p align="center">
-I enjoy working on backend and desktop projects, paying attention to code quality, performance, and simplicity
+I enjoy working on backend and desktop projects, with a focus on clean code, good performance, and simple solutions.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Second-year student at **CMC Nouasseur**
-- ⚙️ Focused on **Back-End Development**
-- 🖥️ Experience with **Desktop & Web Applications**
-- 🛠️ Clean code, logic, and problem solving mindset
+- 💻 Back-end oriented developer
+- 🖥️ Working on desktop and web applications
+- 🧠 I like solving problems and improving my coding skills
+
+---
+
+## 🎯 Goal
+- Build real-world backend systems
+- Improve my software architecture skills
+- Gain professional experience through projects and internships
 
 ---
 
@@ -45,8 +52,9 @@ I enjoy working on backend and desktop projects, paying attention to code qualit
 
 ## 📫 Contact
 - 📧 Email: oussamaezahidi@gmail.com
-- 🌐 GitHub: Oussama ezahidi
+- 💼 LinkedIn: oussama ezahidi
+- 🌐 GitHub: oussamaezahidi
 
 ---
 
-⭐ *Feel free to explore my repositories and projects*
+⭐ *Thanks for checking out my profile*
