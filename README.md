@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Oussama</h1>
+<h1 align="center">👋 Hi, I'm Oussama Ezahidi </h1>
 <h3 align="center">Back-End Developer • Full-Stack Desktop Developer • CMC Nouasseur Student</h3>
 
 <p align="center">
