@@ -63,14 +63,27 @@ Je suis un développeur passionné par la création d'applications web et mobile
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Mon activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamaezahidi&theme=radical&locale=fr" alt="GitHub Streak" />
+  <a href="https://github.com/oussamaezahidi">
+    <img src="https://img.shields.io/github/followers/oussamaezahidi?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-brightgreen?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Statut-Disponible-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaezahidi&theme=radical" alt="Résumé du profil" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
