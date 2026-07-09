@@ -66,9 +66,9 @@ Je suis un développeur passionné par la création d'applications web et mobile
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezahidioussama&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub d'Oussama" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamaezahidi&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub d'Oussama" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezahidioussama&layout=compact&theme=radical&locale=fr" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaezahidi&layout=compact&theme=radical&locale=fr" alt="Langages les plus utilisés" />
 </p>
 
 ---
